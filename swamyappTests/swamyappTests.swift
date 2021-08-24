@@ -7,7 +7,7 @@
 //
 
 import XCTest
-@testable import swamyapp
+
 
 class swamyappTests: XCTestCase {
 
